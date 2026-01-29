@@ -31,6 +31,7 @@ This project involves:
 ![Data Integration](docs/data_integration.png)
 
 ## 📖 Data Model
+ **Star schema**
 ![Data Model](docs/data_model.png)
 
 ## 📖 ETL
