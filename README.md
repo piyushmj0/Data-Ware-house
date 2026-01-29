@@ -24,6 +24,17 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 ---
+## 📖 Data Flow
+![Data Flow](docs/data_flow.png)
+
+## 📖 Data Integration
+![Data Integration](docs/data_integration.png)
+
+## 📖 Data Model
+![Data Model](docs/data_model.png)
+
+## 📖 ETL
+![ETL](docs/ETL.png)
 
 ## 🚀 Project Requirements
 
